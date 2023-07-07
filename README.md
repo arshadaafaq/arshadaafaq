@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arshad Aafaq D</h1>
-<h3 align="center">Hi! I'm a motivated Data Scientist with 1.5 years of experience in Data Science. Proficient in Python, SQL, ML, Stats, Power BI, and Tableau. Excited to join your company</h3>
+<h3 align="center">Hi! I'm a motivated Data Scientist with 1.5 year experience in Data Science. Proficient in Python, SQL, ML, Stats, Power BI, Tableau. Excited joining your company</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshadaafaq&label=Profile%20views&color=0e75b6&style=flat" alt="arshadaafaq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshadaafaq" alt="arshadaafaq" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/arshadaafaq1" target="blank"><img src="https://img.shields.io/twitter/follow/arshadaafaq1?logo=twitter&style=for-the-badge" alt="arshadaafaq1" /></a> </p>
+
+- 🔭 I’m currently working on **ML Projects**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
