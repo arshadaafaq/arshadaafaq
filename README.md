@@ -1,3 +1,4 @@
+![logo](https://github.com/arshadaafaq/arshadaafaq/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
 <h1 align="center">Hi 👋, I'm Arshad Aafaq D</h1>
 <h3 align="center">Hi! I'm a motivated Data Scientist with 1.5 years of experience in Data Science. Proficient in Python, SQL, ML, Stats, Power BI, and Tableau. Excited to join your company</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
