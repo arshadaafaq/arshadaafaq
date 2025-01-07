@@ -20,8 +20,7 @@
 
 - 📫 How to reach me **aafaqclassic@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1tVOV43_SOCQM2h2clw_a-hguTIYpyg3P/view?usp=sharing](https://bit.ly/arshadAI)![image](https://github.com/user-attachments/assets/1c62de56-84ce-40da-91e3-3cc0e6751e03)
-](https://drive.google.com/file/d/1tVOV43_SOCQM2h2clw_a-hguTIYpyg3P/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/arshadAI](https://bit.ly/arshadAI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
